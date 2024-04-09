@@ -1,4 +1,4 @@
-#Bootcamp Dio-Microsoft-Azure-Speech Studio.
+# Bootcamp Dio-Microsoft-Azure-Speech Studio.
 Se trata de um projetinho de forma mais a nivel de apresentar o que foi aprendido no módulo Azure-Speech-Studio.Exploramos o uso do Azure Speech Studio e a análise linguística proporcionada pelo Language Studio.
 "Aprofundei" o entendimento sobre como aproveitar essas ferramentas avançadas da Microsoft Azure. Tendo como foco aprimorar as habilidades na implementação de soluções de análise de fala e linguagem, o que proporcionou uma compreensão mais ampla e prática das capacidades oferecidas por essas tecnologias inovadoras.
 A seguir vou realizando um passo a passo de como fiz essas implementações na prático no portal do Microsoft Azure.
